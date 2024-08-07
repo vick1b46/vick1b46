@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá👋
+
+
+![](https://media.tenor.com/wbqDH6hm_gcAAAAj/peach-goma-peach-and-goma.gif)
 
 <!--
 **vick1b46/vick1b46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
